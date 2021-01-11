@@ -15,3 +15,6 @@ make
 ./fillit example2
 ```
 
+![](image/img2.png)
+![](image/img3.png)
+![](image/img1.png)
